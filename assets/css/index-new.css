@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'PP Neue Montreal';
 	src: url('../fonts/PPNeueMontreal-Thin.otf') format('opentype');
-	font-weight: 200;
+	font-weight: 400;
 }
 @font-face {
 	font-family: 'PP Neue Montreal';
@@ -15,7 +15,7 @@
 body {
   margin: 0;
   font-family: 'PP Neue Montreal', sans-serif;
-	font-weight: 200;
+	font-weight: 400;
   font-size: 17px;
   background-color: #000 !important;
 }
@@ -36,7 +36,7 @@ body {
 }
 .center-box {
 	font-family: 'PP Neue Montreal', sans-serif;
-	font-weight: 200;
+	font-weight: 400;
 	background: rgba(173, 134, 134, 0.4);
 	height: 495px;
 	width: 47%;
