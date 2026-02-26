@@ -1,10 +1,12 @@
 @font-face {
-	font-family: 'worksans extra light';
-	src: url('../fonts/WorkSans-ExtraLight.ttf');
+	font-family: 'PP Neue Montreal';
+	src: url('../fonts/PPNeueMontreal-Thin.otf') format('opentype');
+	font-weight: 200;
 }
 @font-face {
-	font-family: 'worksans light';
-	src: url('../fonts/WorkSans-Light.ttf');
+	font-family: 'PP Neue Montreal';
+	src: url('../fonts/PPNeueMontreal-Book.otf') format('opentype');
+	font-weight: 400;
 }
 * {
   box-sizing: border-box;
@@ -12,7 +14,8 @@
 
 body {
   margin: 0;
-  font-family: 'worksans extra light';
+  font-family: 'PP Neue Montreal', sans-serif;
+	font-weight: 200;
   font-size: 17px;
   background-color: #000 !important;
 }
@@ -32,7 +35,8 @@ body {
     transform: translate(-50%, -50%);
 }
 .center-box {
-	font-family: 'worksans extra light';
+	font-family: 'PP Neue Montreal', sans-serif;
+	font-weight: 200;
 	background: rgba(173, 134, 134, 0.4);
 	height: 495px;
 	width: 47%;
@@ -83,7 +87,8 @@ body {
 }
 .footer-content p {
 	margin-bottom: 0;
-	font-family: 'worksans light';
+	font-family: 'PP Neue Montreal', sans-serif;
+	font-weight: 400;
 	text-align: center;
     cursor: default;
     font-size: 15px;
