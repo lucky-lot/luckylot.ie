@@ -47,7 +47,7 @@ body {
 	padding-right: 30px;
 }
 .center-box a {
-	color: #fff !important;
+	color: #d4d4d4 !important;
 	font-size: 21px;
 	margin-bottom: 0;
     cursor: default;
@@ -94,7 +94,7 @@ body {
     font-size: 15px;
 }
 .pdf-link {
-	color: #fff;
+	color: #d4d4d4;
 	text-decoration: none;
 	position: absolute;
 	bottom: 50px;
@@ -102,7 +102,7 @@ body {
 }
 .pdf-link:hover {
 	text-decoration: none;
-	color: #fff;
+	color: #d4d4d4;
 	cursor: pointer;
 }
 .center-box .content {
@@ -181,7 +181,7 @@ body {
 	padding: 12px 12px;
 	height: 70px;
 	outline: none;
-	color: #fff !important;
+	color: #d4d4d4 !important;
 	border-radius: 0;
 	font-size: 16px;
 }
@@ -190,7 +190,7 @@ body {
 	outline: none;
 	box-shadow: none;
 	border: 1px solid #676767;
-    color: #fff !important;
+    color: #d4d4d4 !important;
     background-color: #080708 !important;
 }
 .thanks-content {
@@ -203,11 +203,11 @@ body {
 	background-color: #080708;
 	padding: 24px 12px;
 	height: 70px;
-	color: #fff !important;
+	color: #d4d4d4 !important;
 	font-size: 16px;
 }
 .email_address.active input::placeholder {
-	color: #fff;
+	color: #d4d4d4;
 }
 .email_address .btn-submit {
 	position: absolute;
@@ -217,7 +217,7 @@ body {
 	box-shadow: none;
 	cursor: pointer;
 	background-color: transparent;
-	color: #fff;
+	color: #d4d4d4;
 	margin-top: 23px;
 	font-size: 16px;
 }
