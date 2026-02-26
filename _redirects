@@ -1,0 +1,4 @@
+# Redirect luckylot.ie to luckylot.co
+https://luckylot.ie/*     https://luckylot.co/:splat     301!
+https://www.luckylot.ie/* https://luckylot.co/:splat     301!
+https://www.luckylot.co/* https://luckylot.co/:splat     301!
