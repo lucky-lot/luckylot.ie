@@ -1,2 +1,12 @@
-# Redirect www to apex
-https://www.luckylot.ie/* https://luckylot.ie/:splat 301!
+# Redirect www.luckylot.co to apex
+https://www.luckylot.co/* https://luckylot.co/:splat 301!
+
+# Redirect old .ie domain to .co
+https://luckylot.ie/* https://luckylot.co/:splat 301!
+https://www.luckylot.ie/* https://luckylot.co/:splat 301!
+
+# Redirect alias domains to luckylot.co
+https://wearealuckylot.co/* https://luckylot.co/:splat 301!
+https://www.wearealuckylot.co/* https://luckylot.co/:splat 301!
+https://wearealuckylot.com/* https://luckylot.co/:splat 301!
+https://www.wearealuckylot.com/* https://luckylot.co/:splat 301!
